@@ -1,0 +1,24 @@
+.inputButton {
+    display: flex;
+    margin-bottom: 20px;
+    height: 30px;
+}
+
+.Input {
+    margin-left: auto;
+}
+
+.Button {
+    margin-left: 10px;
+    margin-right: auto;
+    width: 2.5rem;
+    background-color: rgb(44, 162, 44);
+    box-sizing: border-box;
+    border-radius: 3px;
+    border-style: hidden ;
+
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    cursor: pointer;
+}

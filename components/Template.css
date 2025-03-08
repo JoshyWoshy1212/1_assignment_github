@@ -1,0 +1,49 @@
+.Template {
+    padding-top: 20px;
+    max-height: 100vh;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    text-align: center;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+
+    padding-bottom: 20px;
+    font-size: 33px;
+    font-weight: bold;
+
+    color: rgb(0, 0, 0);
+}
+
+.howManyList {
+    font-size: 20px;
+}
+
+.inputButton {
+    display: flex;
+    margin-bottom: 20px;
+    height: 30px;
+}
+
+.Input {
+    margin-left: auto;
+}
+
+.Button {
+    margin-left: 10px;
+    margin-right: auto;
+    width: 2.5rem;
+    background-color: rgb(44, 162, 44);
+    box-sizing: border-box;
+    border-radius: 3px;
+    border-style: hidden ;
+
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+    
+}
